@@ -1,5 +1,5 @@
- <h1 align="center">Hi 👋, I'm Anand Rawool</h1>
-<h3 align="center">this is springboot fullsatck project </h3>
+
+<h3 align="center">This is springboot fullsatck project </h3>
 <h2 > Features </h2>
 1. User signup with email and password.<br>
 2. Verify acc using email varification link.<br>
