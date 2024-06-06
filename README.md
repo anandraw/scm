@@ -3,7 +3,7 @@
 <br>
 <br>
 <h2 > Features </h2>
-1. User signup with email and password
+1. User signup with email and password.<br>
 2. Verify acc using email varification link.
 3. User signup with google and github
 4. Add the contact with picture.
